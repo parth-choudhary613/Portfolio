@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080">
+ <style >
+ </style>
+ <g className="page" style="background:rgb(0, 0, 0, 0);">
+  <rect x="0" y="0" width="1080" height="1080" fill="rgb(0, 0, 0, 0)">
+  </rect>
+  <g className="element" id="kPupHPuNOL" transform="translate(16, 74) rotate(0)"  style="transform-origin:top left; filter:;">
+   <g >
+    <text fill="rgba(255,255,255,1)" y="37" font-size="37px" text-anchor="start" font-family="Societal Mystery Demo" font-style="normal" font-weight="bold"  line-height="1.47" letter-spacing="0em" stroke-width="0" stroke="black">
+     <tspan x="0" dy="0">CHOUDHARY     </tspan>
+    </text>
+   </g>
+  </g>
+  <g className="element" id="6f92OOI4Kb" transform="translate(16.000000009999894, 18.000000000000057) rotate(0)"  style="transform-origin:top left; filter:;">
+   <g >
+    <text fill="rgba(154,57,202,1)" y="38" font-size="38px" text-anchor="start" font-family="Societal Mystery Demo" font-style="normal" font-weight="bold"  line-height="1.47" letter-spacing="0em" stroke-width="0" stroke="black">
+     <tspan x="0" dy="0">PARTH    </tspan>
+    </text>
+   </g>
+  </g>
+ </g>
+</svg>
